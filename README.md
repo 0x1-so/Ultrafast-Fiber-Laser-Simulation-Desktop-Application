@@ -26,37 +26,25 @@ Once the application is running, you can use the following features:
 
 This demo shows a basic simulation of an ultrafast fiber laser. It demonstrates the main features and capabilities of the application.
 
-<video width="600" controls autoplay loop>
-  <source src="demo/demo.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+[![Simulation Demo](demo/demo_thumbnail.png)](demo/demo.mp4)
 
 ### Real-time Parameter Adjustment
 
 This demo allows you to change simulation parameters in real-time and observe the effects immediately. It's useful for exploring how different parameters impact the laser's behavior.
 
-<video width="600" controls autoplay loop>
-  <source src="demo/change_parameters.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+[![Real-time Parameter Adjustment](demo/change_parameters_thumbnail.png)](demo/change_parameters.mp4)
 
 ### Pulse Amplification and Compression Demo
 
 This demo simulates the processes of pulse amplification and compression, showcasing how the application can be used to study these phenomena.
 
-<video width="600" controls autoplay loop>
-  <source src="demo/amplification.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+[![Pulse Amplification and Compression](demo/amplification_thumbnail.png)](demo/amplification.mp4)
 
 ### Status Check at Any Time
 
 This demo illustrates how you can check the status of the simulation at any given moment, providing insights into the ongoing simulation process.
 
-<video width="600" controls autoplay loop>
-  <source src="demo/check_status.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+[![Status Check](demo/check_status_thumbnail.png)](demo/check_status.mp4)
 
 ## Contributing
 
