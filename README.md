@@ -62,7 +62,7 @@ Monitor simulation status at any point for precise insights into your ongoing pr
 
 ## 🚀 Contributing
 
-I’m building a collaborative platform for laser enthusiasts and researchers! Have ideas? Open an issue or start a discussion. Let’s push the boundaries together.
+Have ideas? Open an issue or start a discussion. Let’s push the boundaries together.
 
 ---
 
