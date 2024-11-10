@@ -32,7 +32,7 @@ Stay updated on simulation progress with real-time status checks, giving you ins
 
 ## 📺 Demo Highlights
 
-### 🎬 Full Simulation Walkthrough
+### 🎬 Simulation Walkthrough
 See a complete laser system simulation in action, demonstrating the application’s capabilities.
 
 [![Simulation Demo](demo/demo_thumbnail.png)](demo/demo.mp4)
