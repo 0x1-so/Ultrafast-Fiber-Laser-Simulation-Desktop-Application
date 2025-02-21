@@ -1,4 +1,4 @@
-# 🚀 Ultrafast Fiber Laser Simulation Desktop Application
+# Ultrafast Fiber Laser Simulation Desktop Application
 
 **Ultrafast Fiber Laser Simulation** application—a practical tool for designing and simulating ultrafast fiber laser systems. This desktop application provides an interactive and intuitive environment for laser simulation, enabling users to explore, optimize, and understand ultrafast fiber laser dynamics.
 
